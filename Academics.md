@@ -1,5 +1,6 @@
 ## Academic Details
 ### IISER Tirupati
+
 |    Semester     | CGPA (10,India) |    GPA (4,US)   |    Class (UK)   |
 | :-------------: | :-------------: | :-------------: | :-------------: |
 |  Monsoon 2017   |       6.9       |      2.76       |       2:1       |      
