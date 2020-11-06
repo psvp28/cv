@@ -18,7 +18,7 @@ Networks*
 [NCBS Archives](http://archives.ncbs.res.in/) in documenting Lab Life through Audio and Video
 Looked in to the Basics of Network Theory and Spreading Behaviour*
 
-### Jekyll Themes
+### Skills
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/psvp28/cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
