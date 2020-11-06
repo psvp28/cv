@@ -6,37 +6,17 @@ I am also a comedian/writer in my free time.
 
 ### Experience
 
-* **Student Researcher, Indian Institute Of Science Education And Research, Tirupati | Jan 2020-present**
+* **Student Researcher, [Indian Institute Of Science Education And Research, Tirupati](https://www.iisertirupati.ac.in) | Jan 2020-Present**
 
 *Working With Prof. G Ambika On Political
 Polarization And Spreading Behaviour In Complex
 Networks*
 
-* **Summer Research Intern, Simon Centre for Living Machines (National Centre for Biological Sciences) | May-July 2019**
+* **Summer Research Intern, [Simon Centre for Living Machines](https://theory.ncbs.res.in/) (National Centre for Biological Sciences) | May-July 2019**
 
 *Working in Dr Shashi Thuttupalli's Lab on Self-assembly in Colloidal Systems. Worked closely with the Outreach Office and the
 NCBS Archives in documenting Lab Life through Audio and Video
 Looked in to the Basics of Network Theory and Spreading Behaviour*
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
