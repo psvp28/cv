@@ -1,8 +1,8 @@
-## PSVISHNUPRASAD
+## PS VISHNUPRASAD
+### MASTER'S RESEARCH STUDENT
 
-You can use the [editor on GitHub](https://github.com/psvp28/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+EXPLORING POLITICAL POLARIZATION IN SOCIAL MEDIA FROM A COMPUTATIONAL POINT OF VIEW. I HAVE LEARNT A DIVERSE RANGE OF SUBJECTS FROM NEUROSCIENCE TO ASTROPHYSICS.
+I AM ALSO A COMEDIAN/WRITER IN MY FREE TIME.
 
 ### Markdown
 
