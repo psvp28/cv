@@ -4,9 +4,23 @@
 Exploring political polarization in social media from a computational point of view. I have learnt a diverse range of subjects from neuroscience to astrophysics.
 I am also a comedian/writer in my free time.
 
-### Markdown
+### Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-**Student Researcher At Indian Institute Of Science
+Education And Research, Tirupati | Jan 2020-present**
+Working With Prof. G Ambika On Political
+Polarization And Spreading Behaviour In Complex
+Networks
+
+-**Summer Research Intern at Simon Centre for
+Living Machines at National Centre for
+Biological Sciences | May-July 2019**
+Working in Dr Shashi Thuttupalli's Lab on Self-assembly in Colloidal Systems
+Worked Closely With the Outreach Office and the
+Ncbs Archives in Documenting Lab Life Through
+Audio and Video
+Looked in to the Basics of Network Theory and
+Spreading Behaviour
 
 ```markdown
 Syntax highlighted code block
