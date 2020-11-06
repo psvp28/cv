@@ -1,32 +1,22 @@
-## PSVISHNUPRASAD
+## PS VISHNUPRASAD
+#### MASTER'S RESEARCH STUDENT
 
-You can use the [editor on GitHub](https://github.com/psvp28/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Exploring political polarization in social media from a computational point of view. I have learnt a diverse range of subjects from neuroscience to astrophysics.
+I am also a comedian/writer in my free time.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Experience
 
-### Markdown
+* **Student Researcher, [Indian Institute Of Science Education And Research, Tirupati](https://www.iisertirupati.ac.in) | Jan 2020-Present**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+*Working With [Prof. G Ambika](https://scholar.google.com/citations?user=hYb5Ng8AAAAJ&hl=en) On Political
+Polarization And Spreading Behaviour In Complex
+Networks*
 
-```markdown
-Syntax highlighted code block
+* **Summer Research Intern, [Simon Centre for Living Machines](https://theory.ncbs.res.in/) (National Centre for Biological Sciences) | May-July 2019**
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+*Working in [Dr Shashi Thuttupalli](https://scholar.google.co.in/citations?user=tOxt7bIAAAAJ&hl=en)'s Lab on Self-assembly in Colloidal Systems. Worked closely with the Outreach Office and the
+[NCBS Archives](http://archives.ncbs.res.in/) in documenting Lab Life through Audio and Video
+Looked in to the Basics of Network Theory and Spreading Behaviour*
 
 ### Jekyll Themes
 
