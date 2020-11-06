@@ -16,15 +16,14 @@ I am also a comedian/writer in my free time.
 
 ### Skills
 
-* **PYTHON**
-SCIPY, NUMPY, NETWORKX
+* **PYTHON:**
+scipy, numpy, networkx
 
-* **MATHEMATICAL MODELLING**
-NONLINEAR DYNAMICS, COMPLEX SYSTEM ANALYSIS, LINEAR ALGEBRA
+* **MATHEMATICAL MODELLING:**
+Nonlinear Dynamics, Complex System Analysis, Linear Algebra
 
-* **DIVERSE COURSE WORK**
-ADVANCED NEUROSCIENCE, ANIMAL PHYSIOLOGY, GENETICS, ASTROPHYSICS, BIOPHYSICS, NUMBER THEORY, DATA SCIENCE, ADVANCED CLASSICAL MECHANICS, ELECTRONICS ETC.
-
+* **DIVERSE COURSE WORK:**
+Advanced Neuroscience, Animal Physiology, Genetics, Astrophysics, Biophysics, Number Theory, Data Science, Advanced Classical Mechanics, Electronics etc.
 
 ### Support or Contact
 
