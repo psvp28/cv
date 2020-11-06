@@ -1,7 +1,3 @@
----
-title: 1This will be used as the title-tag of the page head
----
-
 ## PS VISHNUPRASAD
 #### MASTER'S RESEARCH STUDENT
 
