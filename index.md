@@ -8,14 +8,14 @@ I am also a comedian/writer in my free time.
 
 * **Student Researcher, [Indian Institute Of Science Education And Research, Tirupati](https://www.iisertirupati.ac.in) | Jan 2020-Present**
 
-*Working With Prof. G Ambika On Political
+*Working With [Prof. G Ambika](https://scholar.google.com/citations?user=hYb5Ng8AAAAJ&hl=en) On Political
 Polarization And Spreading Behaviour In Complex
 Networks*
 
 * **Summer Research Intern, [Simon Centre for Living Machines](https://theory.ncbs.res.in/) (National Centre for Biological Sciences) | May-July 2019**
 
-*Working in Dr Shashi Thuttupalli's Lab on Self-assembly in Colloidal Systems. Worked closely with the Outreach Office and the
-NCBS Archives in documenting Lab Life through Audio and Video
+*Working in [Dr Shashi Thuttupalli](https://scholar.google.co.in/citations?user=tOxt7bIAAAAJ&hl=en)'s Lab on Self-assembly in Colloidal Systems. Worked closely with the Outreach Office and the
+[NCBS Archives](http://archives.ncbs.res.in/) in documenting Lab Life through Audio and Video
 Looked in to the Basics of Network Theory and Spreading Behaviour*
 
 ### Jekyll Themes
