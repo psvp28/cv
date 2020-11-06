@@ -1,5 +1,5 @@
-## PS VISHNUPRASAD
-### MASTER'S RESEARCH STUDENT
+### PS VISHNUPRASAD
+#### MASTER'S RESEARCH STUDENT
 
 Exploring political polarization in social media from a computational point of view. I have learnt a diverse range of subjects from neuroscience to astrophysics.
 I am also a comedian/writer in my free time.
